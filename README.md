@@ -1,4 +1,4 @@
-### Hi there 👋, Hello, I'm Md Elias Chowdhury
+### Hello, I'm Md Elias Chowdhury 👋
 #### Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer
 ![Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer]
 
