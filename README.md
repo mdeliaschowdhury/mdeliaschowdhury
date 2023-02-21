@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello, I'm Md Elias Chowdhury
 #### Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer
-![Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer]
 
 The precondition of a successful online business is following proper business architecture and automation, excellent UI - User Interface Design, UX - User Experience taken by statistically, and the most updated web trend that converts random traffic into a potential and effective consumer.
 
@@ -14,4 +14,3 @@ A clear understanding of JavaScript DOM, and a solid understanding of jQuery & j
 Extensive knowledge about business automation, and software architecture, several times work as a project manager and team leader. Deeply understanding of UI/UX, statistical designing factors, web trends for developing highly competitive web products, and startup business solutions. I've worked for Codecanyon.net, and Envato Marketplace.
 
 I can take responsibility for my own personal development. I'm continually evaluating and upgrading my skills so that I can stay at the cutting edge of web design & development.
-
