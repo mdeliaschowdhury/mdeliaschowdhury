@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Md Elias Chowdhury</h1>
-<h3 align="center">Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer</h3>
+<h1 align="left">Hello 👋, I'm Md Elias Chowdhury</h1>
+<h3 align="left">Frontend Developer - Bootstrap 5 / Tailwind CSS | Ui/Ux Designer | Email Marketing | Responsive HTML Email Developer</h3>
 
 <p align="left">💻 Frontend Web Developer</p>
 <p align="left">💻 WordPress | Elementor</p>
 <p align="left">📧 Email Marketing Expert</p>
 <p align="left">📨 MailChimp | Klaviyo | HubSpot | SendGrid & so on</p>
 
-<h3 align="center">👋 About Me</h1>
+<h1 align="left">🏡 About Me</h1>
 
 The precondition of a successful online business is following proper business architecture and automation, excellent UI - User Interface Design, UX - User Experience taken by statistically, and the most updated web trend that converts random traffic into a potential and effective consumer.
 
@@ -21,7 +21,15 @@ Extensive knowledge about business automation, and software architecture, severa
 
 I can take responsibility for my own personal development. I'm continually evaluating and upgrading my skills so that I can stay at the cutting edge of web design & development.
 
-<h1 align="center"></h1>
+<h1 align="left">💻 Skills & Expertise</h1>
+
+<p align="left">✔ HTML5, CSS3, JavaScript, jQuery</p>
+<p align="left">✔ Bootstrap, Tailwind CSS</p>
+<p align="left">✔ WordPress, Elementor</p>
+<p align="left">✔ Responsive HTML Email Template</p>
+<p align="left">✔ MailChimp, Klaviyo, HubSpot, SendGrid & so on</p>
+
+<h3 align="left"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdeliaschowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="mdeliaschowdhury" /> </p>
 
