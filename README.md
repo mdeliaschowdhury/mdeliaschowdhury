@@ -26,6 +26,7 @@ I can take responsibility for my own personal development. I'm continually evalu
 <p align="left">✔ HTML5, CSS3, JavaScript, jQuery</p>
 <p align="left">✔ Bootstrap, Tailwind CSS</p>
 <p align="left">✔ WordPress, Elementor</p>
+<p align="left">✔ Photoshop, Adobe Illustrator</p>
 <p align="left">✔ PSD, XD, Figma, Sketch. Invision, JPG, PDF to HTML, Bootstrap, Tailwind, WordPress Conversion</p>
 <p align="left">✔ Responsive HTML Email Template</p>
 <p align="left">✔ MailChimp, Klaviyo, HubSpot, SendGrid & so on</p>
